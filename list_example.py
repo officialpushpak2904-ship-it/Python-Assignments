@@ -1,5 +1,3 @@
-#Lists, Dictionaries, and Tuples in Python
-
 thislist = ["Shreyash", "Pushpak", "Soham"]
 
 student = {"Name": "Aditya", "Class": 6, "Age": 12}
